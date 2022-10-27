@@ -1,0 +1,11 @@
+C:\Users\rail2\source\repos\КТЗ\КТЗ\bin\Debug\КТЗ.exe.config
+C:\Users\rail2\source\repos\КТЗ\КТЗ\bin\Debug\КТЗ.exe
+C:\Users\rail2\source\repos\КТЗ\КТЗ\bin\Debug\КТЗ.pdb
+C:\Users\rail2\source\repos\КТЗ\КТЗ\obj\Debug\КТЗ.csproj.AssemblyReference.cache
+C:\Users\rail2\source\repos\КТЗ\КТЗ\obj\Debug\КТЗ.csproj.SuggestedBindingRedirects.cache
+C:\Users\rail2\source\repos\КТЗ\КТЗ\obj\Debug\КТЗ.Form1.resources
+C:\Users\rail2\source\repos\КТЗ\КТЗ\obj\Debug\КТЗ.Properties.Resources.resources
+C:\Users\rail2\source\repos\КТЗ\КТЗ\obj\Debug\КТЗ.csproj.GenerateResource.cache
+C:\Users\rail2\source\repos\КТЗ\КТЗ\obj\Debug\КТЗ.csproj.CoreCompileInputs.cache
+C:\Users\rail2\source\repos\КТЗ\КТЗ\obj\Debug\КТЗ.exe
+C:\Users\rail2\source\repos\КТЗ\КТЗ\obj\Debug\КТЗ.pdb

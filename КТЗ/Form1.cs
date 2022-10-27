@@ -175,7 +175,7 @@ namespace КТЗ
                 planAndPotencialDataGrid.Rows[0].Cells[i].Value = vi[i - 2];
             for (int i = 2; i < m + 2 ; i++)
                 planAndPotencialDataGrid.Rows[i].Cells[0].Value = uj[i - 2];
-            
+      
             potentialReadyVisibleFalse();
             checkOptimalButton.Visible = true;
             workingSpaceLabel.Text = "Значение дельт";
