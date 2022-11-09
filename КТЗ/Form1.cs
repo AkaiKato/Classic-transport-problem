@@ -166,7 +166,8 @@ namespace КТЗ
                     return;
                 }
             }
-            if(uj != ujStd || vi != viStd)
+            Enumerable.SequenceEqual(uj, ujStd);
+            if(!Enumerable.SequenceEqual(uj, ujStd) || !Enumerable.SequenceEqual(vi, viStd))
             {
                 MessageBox.Show("Провверьте правильность вводимых данных!", "Ошибка!");
                 return;
